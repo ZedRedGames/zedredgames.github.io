@@ -1,0 +1,15 @@
+# Это список поддерживаемых платформ для финансирования (пожертвований)
+
+github: # Замените на до 4-х имён пользователей с поддержкой GitHub Sponsors, напр. [user1, user2]
+patreon: # Замените на одно имя пользователя Patreon
+open_collective: # Замените на одно имя пользователя Open Collective
+ko_fi: # Замените на одно имя пользователя Ko-fi
+tidelift: # Замените на имя платформы/пакета в Tidelift, напр. npm/babel
+community_bridge: # Замените на название проекта Community Bridge, напр. cloud-foundry
+liberapay: # Замените на одно имя пользователя Liberapay
+issuehunt: # Замените на одно имя пользователя IssueHunt
+lfx_crowdfunding: # Замените на название проекта LFX Crowdfunding, напр. cloud-foundry
+polar: # Замените на одно имя пользователя Polar
+buy_me_a_coffee: # Замените на одно имя пользователя Buy Me a Coffee
+thanks_dev: # Замените на одно имя пользователя thanks.dev
+custom: # Замените на до 4-х пользовательских URL-адресов для спонсирования, напр. ['ссылка1', 'ссылка2']
