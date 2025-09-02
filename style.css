@@ -50,7 +50,7 @@ header {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-.logo-link {
+a {
   text-decoration: none;
 }
 
@@ -80,7 +80,6 @@ nav {
 }
 
 nav a {
-  text-decoration: none;
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -211,4 +210,8 @@ footer p {
   width: 40px;
   height: 40px;
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+a > p {
+  color: #f0f0f0;
 }
